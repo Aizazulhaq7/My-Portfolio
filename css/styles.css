@@ -231,13 +231,6 @@ margin-bottom: 15px;
         align-items: center;
     }
 
-    @media all and (max-width: 600px) {
-        body {
-          background-color: lightblue;
-        }
-      }
-
-      .hero-section .hero-inner {
-          flex-direction: column-reverse;
-        }
+    
+      
  
